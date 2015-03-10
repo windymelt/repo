@@ -122,7 +122,7 @@
         <dependency>
             <groupId>org.jvnet.mimepull</groupId>
             <artifactId>mimepull</artifactId>
-            <version>i.9.4</version>
+            <version>1.9.4</version>
         </dependency>
         <dependency>
             <groupId>org.json4s</groupId>
